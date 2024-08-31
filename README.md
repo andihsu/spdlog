@@ -9,5 +9,5 @@ git clone --recursive https://github.com/andihsu/spdlog
 or add as a submodule with command:
 
 ```
-git submodule add https://github.com/andihsu/spdlog
+git submodule add https://github.com/andihsu/spdlog {path_to_your_submodlue_path}
 ```
